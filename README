@@ -294,16 +294,6 @@ RETURN DIVIDE(CurrentYear - PrevYear, PrevYear) * 100
 - Business Dashboard Design
 - Data Storytelling & Insight Generation
 
----
-
-## 👤 Author
-
-**[Your Name]**  
-Aspiring Data Analyst | Excel · SQL · Power BI  
-📧 youremail@gmail.com  
-🔗 [LinkedIn Profile URL]  
-🐙 [GitHub Profile URL]
 
 ---
 
-*This project uses a publicly available dataset (Kaggle Netflix Titles) combined with simulated engagement data for analytical practice purposes.*
